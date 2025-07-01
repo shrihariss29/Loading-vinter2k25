@@ -7,7 +7,7 @@ function App() {
           <img src={sc} alt="Sand clock" className="rotating-image"/>
         <h1>Vinterbash 2025</h1>
         <p>Website will be live from <strong>1st July 2025</strong></p>
-    <p>Registration starts from <strong>2nd July 2025 11 am</strong></p>
+    <p>Registration starts at <strong>2nd July 2025 11 am</strong></p>
       </div>
     </div>      
   );
